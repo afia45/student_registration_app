@@ -39,6 +39,6 @@ It contains the following pages:
 ![Screenshot](/assets/student.png)
 
 
-## Screen Record (on BlueStacks Emulator)
+## Screen Record (on Android Emulator)
 - [Basic Student Info/Registration App](https://youtu.be/yrDSV_eglC8 "App Function")
 
