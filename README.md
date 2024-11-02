@@ -36,7 +36,7 @@ It contains the following pages:
 
 ## Screenshots (Android Emulator)
 
-![Screenshot](/assets/student info.drawio.png)
+![Screenshot](/assets/student.png)
 
 
 ## Screen Record (on BlueStacks Emulator)
