@@ -10,6 +10,10 @@ The app displays a simple screen that shows 2 buttons:
 
 It can perform basic add, update, view and delete operations, fulfilling the CRUD operations of SQLite.
 
+## Screenshots (Android Emulator)
+
+![Screenshot](/assets/student.png)
+
 
 ## Tools and Languages
 Flutter and Dart
@@ -33,10 +37,14 @@ It contains the following pages:
 - Update Student Page
 - Student Lists
 
+## Validation Check
 
-## Screenshots (Android Emulator)
+I added the following validation check when registering a student:
+- ID : Must be String length of 7
+- Phone Number : Can be no more or less than 11 digits and does not accept non-numerical input.
+- Email : Verifies input with correct email format.
 
-![Screenshot](/assets/student.png)
+
 
 
 ## Screen Record (on Android Emulator)
