@@ -16,7 +16,7 @@ It can perform basic add, update, view and delete operations, fulfilling the CRU
 
 
 ## Tools and Languages
-Flutter and Dart
+Flutter, Dart and SQLite
 
 ## Packages
 
